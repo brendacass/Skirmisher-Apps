@@ -1,0 +1,557 @@
+{
+	"rooms": [
+		"in the stables",
+		"in a cramped room",
+		"in a small room",
+		"in a spacious room",
+		"in a suite",
+		"in a honeymoon suite"
+	],
+	"accomodations": [
+		"Cot",
+		"Pile of straw",
+		"Straw mattress",
+		"Small futon",
+		"Feather bed",
+		"Waterbed"
+
+	],
+	"atmosphere": [
+		"Celebratory",
+		"Conspiratorial",
+		"Depressing",
+		"Dour",
+		"Hostile",
+		"Jovial",
+		"Pleasant",
+		"Rustic",
+		"Sensual",
+		"Welcoming"
+
+	],
+	"attitudes": [
+		"Angry",
+		"Boisterous",
+		"Chatty",
+		"Churlish",
+		"Drunk",
+		"Flirty",
+		"Friendly",
+		"Helpful",
+		"Hostile",
+		"Humorless",
+		"Indifferent",
+		"Nervous",
+		"Nosey",
+		"Puckish",
+		"Quiet",
+		"Surly",
+		"Tipsy",
+		"Unfriendly",
+		"Wistful",
+		"Cheerful"
+	],
+	"clientele": [
+		"Adepts",
+		"Aristocrats",
+		"Barbarians",
+		"Bards",
+		"Commoners",
+		"Clerics (purely for the atmosphere)",
+		"Drow",
+		"Druids",
+		"Dwarves",
+		"Elves",
+		"Experts",
+		"Farmers",
+		"Fighters",
+		"Gnomes",
+		"Half-Elves",
+		"Half-Orcs",
+		"Halflings",
+		"Humans",
+		"Locals",
+		"Merchants",
+		"Monks",
+		"Paladins",
+		"Orcs",
+		"Rangers",
+		"Rogues",
+		"Sorcerers",
+		"Tradesmen",
+		"Travelers",
+		"Warriors",
+		"Wizards",
+		"Roll twice and combine results"
+	],
+	"drinkFirstNames": [
+		"Bloody",
+		"Brass",
+
+		"Bulging",
+
+		"Corpse",
+
+		"Death",
+
+		"Demon",
+
+		"Flaming",
+
+		"Fuzzy",
+
+		"Glass-Eating",
+
+		"Hangman’s",
+
+		"Hellfire",
+
+		"Rattlesnake",
+
+		"Raw",
+
+		"Red-headed",
+
+		"Rusty",
+
+		"Salty",
+
+		"Slippery",
+
+		"Slutty",
+
+		"Topless",
+
+		"Wet"
+	],
+	"drinkSecondNames": [
+		"Backside",
+		"Bomb",
+
+		"Codpiece",
+
+		"Connection",
+
+		"Chartered Accountant",
+
+		"Job",
+
+		"Monkey",
+
+		"Moon",
+
+		"Navel",
+
+		"Nightfall",
+
+		"Nipple",
+
+		"On The Beach",
+
+		"Pucker",
+
+		"Reviver",
+
+		"Slammer",
+
+		"Sling",
+
+		"Slut",
+
+		"Sunrise",
+
+		"Swill",
+
+		"Venom"
+	],
+	"entertainment": [
+		"Band",
+		"Comedian",
+		"Contortionist",
+		"Dancer",
+		"Improv",
+		"Juggler",
+		"Minstrel",
+		"Puppeteer",
+		"Trained Animals",
+		"Village Idiot"
+	],
+	"quality": [
+		"Amusing",
+		"Cliché",
+		"Competent",
+		"Fantastic",
+		"Troupe Hackneyed",
+		"Mediocre",
+		"Passable",
+		"Surprising",
+		"Tour de Force",
+		"Transcendent"
+	],
+	"facilities": [
+		"Chamber Pot",
+
+		"Garderobe",
+
+		"Hastily-Dug Latrine",
+
+		"Outhouse",
+
+		"Pay Toilet (1 sp)",
+
+		"Pit Dug Out Back",
+
+		"Restroom with 2d4 stalls",
+
+		"Old Can or Jar in the alley",
+
+		"Trough",
+
+		"Water Closet"
+	],
+	"cleanliness": [
+		"Adequate",
+		"Attended",
+
+		"Bilious",
+
+		"Clean",
+
+		"Dirty",
+
+		"Disease-Ridden",
+
+		"Filthy",
+
+		"Moldy",
+
+		"Pristine",
+
+		"Vermin Infested"
+	],
+	"games": [
+		"Billiards",
+
+		"Cards",
+
+
+		"Checkers",
+
+
+		"Chess",
+
+
+		"Coin Toss",
+
+
+		"Darts",
+
+
+		"Devil Among the Tailors",
+
+
+		"Dice",
+
+
+		"Mumblety-Peg",
+
+
+		"Toss the Dwarf"
+
+	],
+	"misfortunes": [
+		"Beaten Up",
+
+		"Conned",
+
+		"Drugged",
+
+		"Pranked",
+
+		"Propositioned",
+
+		"Robbed",
+
+		"Shanghaied",
+
+		"Sick",
+
+		"Stabbed",
+
+		"Roll Twice (it was a bad night)."
+
+	],
+	"mystery": [
+		"Compulsive Liar",
+
+		"Con Artist",
+
+		"Demon",
+
+		"Disgraced Hero",
+
+		"Cardsharp",
+
+		"Cultist",
+
+		"Doppelganger",
+
+		"Drunken Master",
+
+		"Ghost",
+
+		"God In Mortal Form",
+
+		"Introvert",
+
+		"Itching For a Fight",
+
+		"Local Drunk",
+
+		"Noble in Disguise",
+
+		"Off-Duty Prostitute",
+
+		"Outlaw",
+
+		"Retired Adventurer",
+
+		"Revolutionary",
+
+		"Spy",
+
+		"Vampire"
+
+	],
+	"tavernFirstNames": [
+		"Beggar's",
+		"Coachman's",
+
+		"Copper",
+
+		"Crimson",
+
+		"Crippled",
+
+		"Dancing",
+
+		"Dandy",
+
+		"Fallen",
+
+		"Floating",
+
+		"Freeman's",
+
+		"Golden",
+
+		"Green",
+
+		"Hanged",
+
+		"Hangman's",
+
+		"Highwayman's",
+
+		"Hunter's",
+
+		"King's",
+
+		"Laughing",
+
+		"Leaky",
+
+		"Mended",
+
+		"Orange",
+
+		"Poisoned",
+
+		"Poor Man's",
+
+		"Prancing",
+
+		"Queens'",
+
+		"Red",
+
+		"Restful",
+
+		"Rusty",
+
+		"Screaming",
+
+		"Silver",
+
+		"Sleeping",
+
+		"Stuck",
+
+		"Tipsy",
+
+		"Tired",
+
+		"Unchained",
+
+		"Violet",
+
+		"Wanderer's",
+
+		"Wet",
+
+		"Witch's",
+
+		"Wounded",
+
+		"Wretched",
+
+		"Yellow"
+	],
+	"tavernSecondNames": [
+		"Arms",
+
+		"Badger",
+
+		"Barrel",
+
+		"Bucket",
+
+		"Cantina",
+
+		"Cask",
+
+		"Cauldron",
+
+		"Clown",
+
+		"Corpse",
+
+		"Crow",
+
+		"Cup",
+
+		"Docks",
+
+		"Dog",
+
+		"Donkey",
+
+		"Dragon",
+
+		"Drop",
+
+		"Drum",
+
+		"Farmer",
+
+		"Flag",
+
+		"Flagon",
+
+		"Hand",
+
+		"Haunch",
+
+		"Hive",
+
+		"Horn",
+
+		"Horse",
+
+		"Hound",
+
+		"House",
+
+		"Jester",
+
+		"Kettle",
+
+		"Lady",
+
+		"Lord",
+
+		"Monk",
+
+		"Mule",
+
+		"Pit",
+
+		"Pony",
+
+		"Post",
+
+		"Priest",
+
+		"Prince",
+
+		"Princess",
+
+		"Rest",
+
+		"Ring",
+
+		"Shack",
+
+		"Shackles",
+
+		"Shambles",
+
+		"Soldier",
+
+		"Stag",
+
+		"Stein",
+
+		"Vagabond",
+
+		"Wallow",
+
+		"Wolf"
+
+	],
+	"shortages": [
+		"Ale",
+
+		"Rum",
+
+		"Tea",
+
+		"Water",
+
+		"Wine",
+
+		"Grog",
+
+		"Whiskey",
+
+		"Everything is in stock!",
+
+		"Roll Twice and Combine Results",
+
+		"Roll Thrice and Combine Results"
+
+	],
+	"unwelcome": [
+		"Constructs",
+
+		"Dwarves",
+
+		"Elves",
+
+		"Gnomes",
+
+		"Half-Elves",
+
+		"Half-Orcs",
+
+		"Halflings",
+
+		"Humans",
+
+		"Orcs",
+
+		"Outsiders"
+
+	]
+
+}
