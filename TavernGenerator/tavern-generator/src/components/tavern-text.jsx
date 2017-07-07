@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 
 const TavernText = ({
-  onCLick,
+  onClick,
   clientele,
   shortage,
   attitude,
@@ -42,7 +42,7 @@ does not welcome Orcs). This is an entirely intentional feature that can lead to
         </blockquote>
         <button className="new-tavern-button" onClick={e=>{
             e.preventDefault();
-            //onClick();
+            onClick();
           }}>New Tavern!</button>
     </div>
 )
